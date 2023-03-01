@@ -1,0 +1,1 @@
+# FastAPI-mysql-template
